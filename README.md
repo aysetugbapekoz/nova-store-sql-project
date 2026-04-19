@@ -33,7 +33,7 @@ The project includes various SQL queries such as:
 - T-SQL
 
 ## Database Diagram
-![Database Diagram](diagram.png)
+![Database Diagram](AyseTugbaPekoz_NovaStore_Proje.png)
 
 ## Author
 Ayşe Tuğba Peköz
